@@ -7,7 +7,7 @@
 I'm going into my second year at [UBC](https://www.ubc.ca), and am pursuing a Bachelor of Science in Computer Science & Economics. Currently, I am interning at [iStall](https://istall.ca), an Edmonton-based startup. In my spare time I work on [Felix](https://justaskfelix.com/), an AI-powered bot that provides data-driven answers to your fantasy football questions (stay tuned for more fantasy sports- hockey and basketball coverage coming soon). 
 <br />
 
-**My Stack:** 
+**My Toolkit:** 
 <br/>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src= "https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
