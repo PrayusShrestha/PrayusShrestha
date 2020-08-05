@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hi, my name is Prayus!
+[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](www.linkedin.com/in/prayus-shrestha)
+<br />
 
-<!--
-**PrayusShrestha/PrayusShrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am a student developer**
+<br/>
+I'm going into my second year at [UBC](https://www.ubc.ca), and am pursuing a Bachelor of Science in Computer Science & Economics. Currently, I am interning at [iStall](https://istall.ca), an Edmonton-based startup. In my spare time I work on [Felix](https://justaskfelix.com/), an AI-powered bot that provides data-driven answers to your fantasy football questions (stay tuned for more fantasy sports- hockey and basketball coverage coming soon). 
+<br />
 
-Here are some ideas to get you started:
+**My Stack:** 
+<br/>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src= "https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+<code><img width="13%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<br/>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/twilio/twilio-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Learning:**
+<br/>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
