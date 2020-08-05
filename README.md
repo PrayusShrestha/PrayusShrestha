@@ -1,5 +1,5 @@
 ## Hi, my name is Prayus!
-[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](www.linkedin.com/in/prayus-shrestha)
+[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](https://www.linkedin.com/in/prayus-shrestha)
 <br />
 
 **I am a student developer**
