@@ -4,7 +4,7 @@
 
 **I am a student developer**
 <br/>
-I'm going into my second year at [UBC](https://www.ubc.ca), and am pursuing a Bachelor of Science in Computer Science & Economics. Currently, I am interning at [iStall](https://istall.ca), an Edmonton-based startup. In my spare time I work on [Felix](https://www.justaskfelix.com/), an AI-powered bot that provides data-driven answers to your fantasy football questions (stay tuned for more fantasy sports- hockey and basketball coverage coming soon). 
+I'm in my second year at [UBC](https://www.ubc.ca), and am pursuing a Bachelor of Science in Computer Science & Economics. Currently, I am working part-time at [iStall](https://istall.ca), an Edmonton-based startup I interned with in last Spring and Summer. In my spare time I work on [Felix](https://www.justaskfelix.com/), an AI-powered bot that provides data-driven answers to your fantasy football questions (stay tuned for more fantasy sports- hockey and basketball coverage coming soon). 
 <br />
 
 **My Toolkit:** 
